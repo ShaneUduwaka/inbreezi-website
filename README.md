@@ -35,6 +35,11 @@ Below are selected highlights of the Inbreezi website interface.
 ### Contact Section
 ![Contact Section](screenshots/contact.png)
 
+📁 **View full screenshot collection:**  
+[screenshots folder](screenshots)
+
+This folder contains additional screenshots covering all pages, components, and responsive layouts.
+
 ---
 
 ## Developers / Credits
