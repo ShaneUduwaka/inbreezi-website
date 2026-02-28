@@ -51,3 +51,4 @@ This repository contains screenshots and documentation highlighting key features
 ## Notes
 - Updated regularly to reflect new features  
 - Screenshots include key pages and mobile views
+<img width="1913" height="834" alt="image" src="https://github.com/user-attachments/assets/467f2fa1-f577-402b-8812-e82517f21aba" />
