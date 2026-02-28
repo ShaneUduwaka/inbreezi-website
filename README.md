@@ -1,10 +1,6 @@
 # inbreezi-website
 
-[![Live Website](https://img.shields.io/badge/Live-Website-brightgreen)](https://inbreezi.com)
-[![Next.js](https://img.shields.io/badge/Framework-Next.js-blue)](https://nextjs.org/)
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+https://inbreezi.com
 
 ---
 
