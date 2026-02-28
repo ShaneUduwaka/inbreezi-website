@@ -35,8 +35,8 @@
 ---
 
 ## Developers / Credits
-- **[Shane Shenal](https://github.com/YOUR_GITHUB_USERNAME)** – Frontend development, Next.js implementation, UI/UX  
-- **[Friend’s Name](https://github.com/FRIEND_GITHUB_USERNAME)** – Feature development, design, and testing  
+- **[Shane Uduwaka](https://github.com/ShaneUduwaka)** – Frontend development, Next.js implementation, UI/UX  
+- **[Tevin Bandara](https://github.com/Tevin-gg)** – Feature development, design, and testing  
 
 > Source code is **private** due to commercial use. This repository serves as a professional portfolio showcase.
 
