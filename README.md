@@ -9,7 +9,7 @@ https://inbreezi.com
 
 ## Website Demo
 
-[Website Demo Video](screenshots/demo.mp4)
+<video src="screenshots/demo.mp4" controls width="100%"></video>
 
 ---
 
