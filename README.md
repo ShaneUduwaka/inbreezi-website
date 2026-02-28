@@ -30,8 +30,14 @@
 ## Screenshots
 Below are selected highlights of the Inbreezi website interface.
 
-### Homepage
-![Homepage](screenshots/homepage.png)
+### Hero Section
+![Hero Section](screenshots/heroSection.png)
+
+### Features Section
+![Features Section](screenshots/features.png)
+
+### Contact Section
+![Contact Section](screenshots/contact.png)
 
 ---
 
@@ -51,4 +57,3 @@ This repository contains screenshots and documentation highlighting key features
 
 ## Notes
 - Updated regularly to reflect new features  
-- Screenshots include key pages and mobile views
