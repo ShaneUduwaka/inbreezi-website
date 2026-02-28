@@ -7,6 +7,10 @@ https://inbreezi.com
 ## Overview
 **Inbreezi** is the official marketing page for Breezi AI, an innovative AI-powered call handling solution that automates customer calls for businesses, providing instant responses, managing bookings, and delivering consistent support 24/7. Built with Next.js, the site is designed to showcase Breezi’s features in a clear and engaging way, with sections highlighting its capabilities, a smooth user experience, and responsive design for all devices. It serves as a professional landing page to introduce the product, educate visitors, and encourage them to explore or try Breezi AI.
 
+## Website Demo
+
+[Website Demo Video](screenshots/demo.mp4)
+
 ---
 
 ## Features
