@@ -31,7 +31,7 @@
 Below are selected highlights of the Inbreezi website interface.
 
 ### Homepage
-![Homepage](screenshots/featured/homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ---
 
