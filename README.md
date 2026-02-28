@@ -9,15 +9,13 @@
 ---
 
 ## Overview
-**Inbreezi** is a commercial website built to [brief purpose, e.g., streamline task management and team collaboration].  
-This project demonstrates professional-level frontend development using **Next.js**, responsive design, and modern UI/UX practices.
+**Inbreezi** is the official marketing page for Breezi AI, an innovative AI-powered call handling solution that automates customer calls for businesses, providing instant responses, managing bookings, and delivering consistent support 24/7. Built with Next.js, the site is designed to showcase Breezi’s features in a clear and engaging way, with sections highlighting its capabilities, a smooth user experience, and responsive design for all devices. It serves as a professional landing page to introduce the product, educate visitors, and encourage them to explore or try Breezi AI.
 
 ---
 
 ## Features
 - Fully responsive design (mobile, tablet, desktop)  
-- Interactive user dashboard  
-- Login and registration system  
+- Interactive user dashboard   
 - SEO-friendly pages for better discoverability  
 - Fast performance and smooth user experience  
 
@@ -25,8 +23,7 @@ This project demonstrates professional-level frontend development using **Next.j
 
 ## Technologies
 - **Frontend:** Next.js, JavaScript, HTML5, CSS3  
-- **Backend:** Node.js (if applicable)  
-- **Hosting:** Vercel / Netlify  
+- **Hosting:** Vercel  
 
 ---
 
