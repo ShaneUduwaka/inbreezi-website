@@ -28,9 +28,10 @@
 ---
 
 ## Screenshots
-| Homepage | Dashboard | Mobile View |
-|----------|-----------|-------------|
-| ![Homepage](screenshots/homepage.png) | ![Dashboard](screenshots/dashboard.png) | ![Mobile View](screenshots/mobile-view.png) |
+Below are selected highlights of the Inbreezi website interface.
+
+### Homepage
+![Homepage](screenshots/featured/homepage.png)
 
 ---
 
@@ -51,4 +52,3 @@ This repository contains screenshots and documentation highlighting key features
 ## Notes
 - Updated regularly to reflect new features  
 - Screenshots include key pages and mobile views
-<img width="1913" height="834" alt="image" src="https://github.com/user-attachments/assets/467f2fa1-f577-402b-8812-e82517f21aba" />
